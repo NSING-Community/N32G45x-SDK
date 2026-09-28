@@ -7,7 +7,7 @@
 
 ## 概述
 
-**N32G45x-SDK** 是 Nsing（国民技术）N32G45x 系列微控制器的固件开发套件（Software Development Kit），由 Nsing-Community 社区维护，为 N32G45x 系列 MCU 应用开发提供完整、统一的嵌入式软件平台，主要包括：
+**N32G45x-SDK** 是 Nsing（国民技术）N32G45x 系列微控制器的固件开发套件（Software Development Kit），由 NSING-Community 社区维护，为 N32G45x 系列 MCU 应用开发提供完整、统一的嵌入式软件平台，主要包括：
 
 - **CMSIS 组件**（core + device）：适配 N32G45x 内置 ARM® Cortex®-M4F 内核，包含器件头文件、系统初始化、启动文件与链接脚本；
 - **标准外设驱动库（Standard Peripheral Library）**：覆盖片上全部外设（ADC、USART、SPI、I2C、TIM、DMA、CAN、USB、ETH、DVP、QSPI、SDIO 等），API 风格统一、便于在系列内移植与复用；
@@ -96,7 +96,7 @@ git pull
 
 ## Overview
 
-**N32G45x-SDK** is the firmware software development kit (SDK) for the Nsing (Nations Technologies) N32G45x series microcontrollers, maintained by the Nsing-Community. It provides a complete and consistent embedded software platform for N32G45x series MCU application development, and mainly includes:
+**N32G45x-SDK** is the firmware software development kit (SDK) for the Nsing (Nations Technologies) N32G45x series microcontrollers, maintained by the NSING-Community. It provides a complete and consistent embedded software platform for N32G45x series MCU application development, and mainly includes:
 
 - **CMSIS components** (core & device): adapted to the ARM® Cortex®-M4F core embedded in the N32G45x, including the device header, system initialization, startup files and linker script;
 - **Standard Peripheral Library**: covering all on-chip peripherals (ADC, USART, SPI, I2C, TIM, DMA, CAN, USB, ETH, DVP, QSPI, SDIO, etc.) with a uniform API style for easy porting and reuse across the series;
